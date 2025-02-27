@@ -4,7 +4,6 @@ its only the link of the new project i've working on developed using laravel, it
 
 TODO LIST:
 
- - make the dashboard public
  - improve phone view
- - Sure ther is a way to pùt an actual map
+ - Sure ther is a way to put an actual map
  - SMTP
